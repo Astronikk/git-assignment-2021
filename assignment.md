@@ -39,6 +39,7 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### Sweety Gupta
 <a href="https://www.instagram.com/svveetyx"><img src="instalogo.png" alt="instagram link" width="50px" height="50px"></a>
+<<<<<<< HEAD
 
 ### Nikita Tripathi
 <a href="https://github.com/NekoNya3"><img src="https://image.flaticon.com/icons/png/128/2111/2111425.png"></img></a>
@@ -49,3 +50,14 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 ### Sanjeet Manna
 <a href="https://www.facebook.com/sanjeetmanna14/"><img src="icons8-facebook-64.png"></a>
 
+=======
+<<<<<<< HEAD
+ 
+### Nikita Tripathi
+<a href="https://github.com/NekoNya3"><img src="https://image.flaticon.com/icons/png/128/2111/2111425.png"></img></a>
+=======
+
+### Nikhil Nagar
+<a href="https://www.instagram.com/nikkkhil_nagar/"><img src="instalogo.png" width="50px" height="50px"></a>
+>>>>>>> 5600601 (nikhil's commit)
+>>>>>>> b8c4485 (nikhil's commit)
